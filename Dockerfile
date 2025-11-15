@@ -1,4 +1,4 @@
-FROM icr.io/db2_community/db2
+FROM icr.io/db2_community/db2:11.5.8.0
 
 ENV LICENSE=accept
 ENV DB2INSTANCE=db2inst1
